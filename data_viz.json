@@ -1,0 +1,32 @@
+[
+  {
+    "region": "right_hemi",
+    "pheno1": 5,
+    "pheno2": 7,
+    "pheno3": 8
+  },
+  {
+    "region": "left_hemi",
+    "pheno1": 10,
+    "pheno2": 20,
+    "pheno3": 15
+  },
+  {
+    "region": "central",
+    "pheno1": 12,
+    "pheno2": 15,
+    "pheno3": 20
+  },
+  {
+    "region": "CNS",
+    "pheno1": 20,
+    "pheno2": 25,
+    "pheno3": 30
+  },
+  {
+    "region": "upper_right_hemi",
+    "pheno1": 6,
+    "pheno2": 5,
+    "pheno3": 10
+  }
+]
